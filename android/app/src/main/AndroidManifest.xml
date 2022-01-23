@@ -4,6 +4,7 @@
         android:label="Seç Bi Kutu"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/logo">
+
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
